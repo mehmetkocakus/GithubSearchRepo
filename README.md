@@ -1,10 +1,10 @@
 # Kariyer Net Marketim Challenge 
   This application developed for challenge.
 # Features
-  Login
-  Order
+  # Login
+  # Order
 # Application Architecture
-  IDE: Android Studio
-  Arthitecture: MVP
-  Programming Language: Java
+  # IDE: Android Studio
+  # Arthitecture: MVP
+  # Programming Language: Java
 
