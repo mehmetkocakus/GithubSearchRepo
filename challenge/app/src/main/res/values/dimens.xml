@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="order_inner_view_top">2dp</dimen>
+    <dimen name="order_market_name_margin">6dp</dimen>
+    <dimen name="order_direction_margin">10dp</dimen>
+    <dimen name="order_view_width_height">12dp</dimen>
+    <dimen name="login_header_text_top">60dp</dimen>
+    <dimen name="login_username_top">120dp</dimen>
+
+    <dimen name="spacing_xsmall">8dp</dimen>
+    <dimen name="spacing_small">16dp</dimen>
+    <dimen name="spacing_medium">24dp</dimen>
+    <dimen name="spacing_xmedium">32dp</dimen>
+    <dimen name="spacing_large">72dp</dimen>
+</resources>

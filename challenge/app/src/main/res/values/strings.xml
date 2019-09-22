@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ANDROID TECH  CHALLENGE</string>
+    <string name="login_header_strin">MARKETİM</string>
+    <string name="user_name_string">Kullanıcı Adı</string>
+    <string name="password_string">Şifre</string>
+    <string name="login_string">Giriş Yap</string>
+    <string name="logout_string">Çıkış Yap</string>
+    <string name="remember_me_string">Beni Hatırla</string>
+    <string name="invalid_password_string">Hatalı Şifre!</string>
+    <string name="please_select_your_password">Lütfen Şifrenizi Giriniz!</string>
+    <string name="orders_string">Siparişlerim</string>
+    <string name="are_you_sure_you_want_to_leave_application_string">Uygulamadan Çıkmak İstediğinize Emin Misiniz?</string>
+    <string name="cancel_string">İptal</string>
+    <string name="orders_listing_string">Siparişler Listeleniyor...</string>
+    <string name="URL_string">http://kariyertechchallenge.mockable.io/</string>
+    <string name="no_orders_to_list">Listelenecek Sipariş Bulunamadı</string>
+</resources>
